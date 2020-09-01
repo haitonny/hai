@@ -1,0 +1,10 @@
+#nav {
+    padding: var(--spacing-5);
+    a {
+        font-weight: bold;
+        color: var(--color-warning-600);
+        &.router-link-exact-active {
+            color: var(--color-success-600);
+        }
+    }
+}
