@@ -1,13 +1,15 @@
 <template>
-$END$
+  <div class="index">
+    <Welcompage />
+  </div>
 </template>
 
 <script>
+import Welcompage from "@/views/Welcome/Welcompage";
 export default {
-name: "index"
-}
+  name: "index",
+  components: { Welcompage },
+};
 </script>
 
-<style scoped>
-
-</style>
+<style scoped></style>

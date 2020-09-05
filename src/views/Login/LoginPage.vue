@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    <div class="grid grid-cols-2 h-screen">
+    <div class="grid h-screen sm:grid-cols-1 xl:grid-cols-2">
       <div class="self-center w-1/2 mx-auto mt-24">
         <img class="h-10 inline" src="../../assets/images/logo.png" alt="" />
         <h6 class="my-6 font-semibold text-base">Welcome back</h6>
@@ -12,7 +12,7 @@
             src="../../assets/images/G__Logo.svg.png"
             alt=""
           />
-          <p class="font-medium ml-10 text-base md:ml-1 md:text-sm">
+          <p class="font-medium ml:20 xl:ml-20">
             Continue With Google
           </p>
         </a>
@@ -39,7 +39,7 @@
         </div>
       </div>
       <div
-        class="bg-fixed tracking-tight bg-scroll bg-center"
+        class="bg-fixed tracking-tight bg-scroll bg-center max-w-full"
         style="background-image: url('img/order_routing.png');"
       >
         <div class="lg:max-w-1/4 mt-32">

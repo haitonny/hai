@@ -6,11 +6,10 @@
 
 <script>
 import LoginPage from "@/views/Login/LoginPage";
-  export default {
-    name: "Home",
-    components: {
-      LoginPage,
-
-    },
-  };
+export default {
+  name: "Home",
+  components: {
+    LoginPage,
+  },
+};
 </script>
