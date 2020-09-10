@@ -28,14 +28,16 @@
           placeholder="Password"
         />
         <div class="">
-          <v-button class="mr-2 w-full" tone="success" priority="high"
-            >Sign In</v-button
+          <router-link to="/welcome"
+            ><v-button class="mr-2 w-full" tone="success" priority="high"
+              >Sign In
+            </v-button></router-link
           >
           <p class="text-success-500 text-left">Forgot password?</p>
         </div>
         <div class="mt-16 inline-flex">
           <p>New to Printify?</p>
-          <a class="text-success-500 cursor-pointer"> Sign Up</a>
+          <a class="text-success-500" href=""> Sign Up</a>
         </div>
       </div>
       <div

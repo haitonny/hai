@@ -12,25 +12,25 @@
 </template>
 
 <script>
-  export default {
-    name: "VCard",
-    props: {
-      tone: {
-        type: String,
-      },
-      priority: {
-        type: String,
-      },
-      rounded: {
-        type: Boolean,
-        default: false,
-      },
+export default {
+  name: "VCard",
+  props: {
+    tone: {
+      type: String,
     },
-  };
+    priority: {
+      type: String,
+    },
+    rounded: {
+      type: Boolean,
+      default: false,
+    },
+  },
+};
 </script>
 
 <style lang="postcss">
-  .card {
-    @apply block p-4 overflow-hidden shadow-lg section;
-  }
+.card {
+  @apply block overflow-hidden shadow-lg;
+}
 </style>
