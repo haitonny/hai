@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    <div class="grid h-screen sm:grid-cols-1 xl:grid-cols-2">
+    <div class="grid h-screen xl:grid-cols-2">
       <div class="self-center w-1/2 mx-auto mt-24">
         <img class="h-10 inline" src="../../assets/images/logo.png" alt="" />
         <h6 class="my-6 font-semibold text-base">Welcome back</h6>
@@ -72,7 +72,7 @@ export default {
   data() {
     return {
       New: "NEW FEATURE",
-      Order: "Order Routing ",
+      Order: "Order Routing",
       Printify: "Printify is the safest Print provider network. ",
       If:
         "If you don't plan to use the background attachment utilities in your project, you can disable them entirely by setting ",
