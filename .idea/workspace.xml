@@ -20,19 +20,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f37d9a76-a440-4c3e-b2dd-1bf15245b75b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/public/img/gear.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/user.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/9b19a83d366323fad443d19c305537db.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/9b19a83d366323fad443d19c305537db.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/b401fcdde9c64cedeacba4db50a4d526.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/b401fcdde9c64cedeacba4db50a4d526.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/070f633cd5c46fde21c3104a33d5d9d4.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/070f633cd5c46fde21c3104a33d5d9d4.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/3533beb851097a765e9cf3eebbd0339a.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/3533beb851097a765e9cf3eebbd0339a.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/807e8b79aed54b7d62bdf702a9ecdcb4.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/807e8b79aed54b7d62bdf702a9ecdcb4.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/9ae609217605f9f9325eb9d61e44306e.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/9ae609217605f9f9325eb9d61e44306e.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/c2aa4a064fb38904fb5d7bfa85f36b9b.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/c2aa4a064fb38904fb5d7bfa85f36b9b.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/ecabfbf5a5c5032ffa104f460281f4ed.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/ecabfbf5a5c5032ffa104f460281f4ed.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/ed9e11f0607f2f5dcc73fa8510a2063b.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/ed9e11f0607f2f5dcc73fa8510a2063b.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/f4f6a6991d0f3f213e4a8a39336a06f7.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/f4f6a6991d0f3f213e4a8a39336a06f7.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/Login/LoginPage.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Login/LoginPage.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/views/Welcome/Welcompage.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Welcome/Welcompage.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tailwind.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,12 +38,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ComposerSettings">
-    <execution />
+    <execution>
+      <executable />
+    </execution>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Vue Single File Component" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -53,21 +54,27 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1guh8wOBRyIYFgAZWwf8W1kbz7l" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="prettier.files.pattern" value="{**/*,*}.{js,ts,jsx,tsx,vue}" />
+    <property name="prettierjs.PrettierConfiguration.NodeInterpreter" value="project" />
     <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
     <property name="run.prettier.on.save" value="true" />
     <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
@@ -107,7 +114,10 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="f37d9a76-a440-4c3e-b2dd-1bf15245b75b" name="Default Changelist" comment="" />
@@ -123,62 +133,85 @@
       <workItem from="1599578766876" duration="438000" />
       <workItem from="1599663979060" duration="653000" />
       <workItem from="1599721551064" duration="11547000" />
-      <workItem from="1599817696122" duration="5068000" />
+      <workItem from="1599817696122" duration="5743000" />
+      <workItem from="1599929597276" duration="1603000" />
+      <workItem from="1599931224126" duration="33000" />
+      <workItem from="1599931282934" duration="12000" />
+      <workItem from="1599931310438" duration="218000" />
+      <workItem from="1599991329049" duration="38000" />
+      <workItem from="1599994333785" duration="89000" />
+      <workItem from="1599995602182" duration="53000" />
+      <workItem from="1600009256574" duration="7978000" />
+      <workItem from="1600279600795" duration="43000" />
+      <workItem from="1600279657848" duration="9152000" />
+      <workItem from="1600441350723" duration="14312000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
+    <option name="version" value="1" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="439" y="242" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599107653363">
       <screen x="0" y="23" width="1440" height="821" />
     </state>
     <state x="439" y="242" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.821@0.23.1440.821" timestamp="1599107653363" />
+    <state x="408" y="176" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1600009264116">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="408" y="176" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1440.821@0.23.1440.821" timestamp="1600009264116" />
     <state x="100" y="123" width="1240" height="621" key="DiffContextDialog" timestamp="1599190789309">
       <screen x="0" y="23" width="1440" height="821" />
     </state>
     <state x="100" y="123" width="1240" height="621" key="DiffContextDialog/0.23.1440.821@0.23.1440.821" timestamp="1599190789309" />
-    <state width="1398" height="212" key="GridCell.Tab.0.bottom" timestamp="1599818607986">
+    <state width="1398" height="212" key="GridCell.Tab.0.bottom" timestamp="1600444313593">
       <screen x="0" y="23" width="1440" height="821" />
     </state>
-    <state width="1398" height="212" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1599818607986" />
-    <state width="1398" height="212" key="GridCell.Tab.0.center" timestamp="1599818607985">
+    <state width="1398" height="212" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1600444313593" />
+    <state width="1398" height="212" key="GridCell.Tab.0.center" timestamp="1600444313593">
       <screen x="0" y="23" width="1440" height="821" />
     </state>
-    <state width="1398" height="212" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1599818607985" />
-    <state width="1398" height="212" key="GridCell.Tab.0.left" timestamp="1599818607984">
+    <state width="1398" height="212" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1600444313593" />
+    <state width="1398" height="212" key="GridCell.Tab.0.left" timestamp="1600444313592">
       <screen x="0" y="23" width="1440" height="821" />
     </state>
-    <state width="1398" height="212" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1599818607984" />
-    <state width="1398" height="212" key="GridCell.Tab.0.right" timestamp="1599818607985">
+    <state width="1398" height="212" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1600444313592" />
+    <state width="1398" height="212" key="GridCell.Tab.0.right" timestamp="1600444313593">
       <screen x="0" y="23" width="1440" height="821" />
     </state>
-    <state width="1398" height="212" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1599818607985" />
-    <state x="221" y="72" key="SettingsEditor" timestamp="1598976120005">
+    <state width="1398" height="212" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1600444313593" />
+    <state x="221" y="72" key="SettingsEditor" timestamp="1600526057052">
       <screen x="0" y="23" width="1440" height="821" />
     </state>
-    <state x="221" y="72" key="SettingsEditor/0.23.1440.821@0.23.1440.821" timestamp="1598976120005" />
+    <state x="221" y="72" key="SettingsEditor/0.23.1440.821@0.23.1440.821" timestamp="1600526057052" />
     <state x="100" y="123" width="1240" height="621" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1599190789310">
       <screen x="0" y="23" width="1440" height="821" />
     </state>
     <state x="100" y="123" width="1240" height="621" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.23.1440.821@0.23.1440.821" timestamp="1599190789310" />
-    <state x="418" y="188" width="740" height="490" key="find.popup" timestamp="1599388599841">
+    <state x="397" y="266" key="com.intellij.ide.util.TipDialog" timestamp="1600279657258">
       <screen x="0" y="23" width="1440" height="821" />
     </state>
-    <state x="418" y="188" width="740" height="490" key="find.popup/0.23.1440.821@0.23.1440.821" timestamp="1599388599841" />
+    <state x="397" y="266" key="com.intellij.ide.util.TipDialog/0.23.1440.821@0.23.1440.821" timestamp="1600279657258" />
+    <state x="418" y="188" width="740" height="490" key="find.popup" timestamp="1600009475066">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="418" y="188" width="740" height="490" key="find.popup/0.23.1440.821@0.23.1440.821" timestamp="1600009475066" />
     <state x="385" y="168" width="670" height="676" key="search.everywhere.popup" timestamp="1599408417695">
       <screen x="0" y="23" width="1440" height="821" />
     </state>

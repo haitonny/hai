@@ -7,6 +7,9 @@ module.exports = {
         padding: "var(--spacing-4)",
       },
     },
+   hover:{
+      display :'block',
+   }
   },
   variants: {},
   plugins: [require("@vunamhung/tailwind-config"), require("@tailwindcss/custom-forms")],
